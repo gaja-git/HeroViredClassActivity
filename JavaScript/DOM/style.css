@@ -1,0 +1,27 @@
+html,body{
+    margin:0;
+    padding:0;
+    height:100%;
+    width:100%;
+}
+.header{
+    width:100%;
+    height:10%;
+    background-color: red;
+}
+
+.input-container{
+    height:40%;
+    width:30%
+    background-color lightgreen
+    display
+}
+
+.content{
+    width:100%;
+    height:90%;
+    background-color:lightcoral;
+    display:flex;
+    justify-content: center;
+    align-items:
+}
